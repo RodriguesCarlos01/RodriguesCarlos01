@@ -3,7 +3,7 @@
 ##### Sou Carlos tenho 42 anos não trabalho na área ainda, estudando desde o inicio do ano de 2023 e cada dia me apaixonando mais pela programação, em transição de carreira em busca da minha primeira oportunidade na área.
 
 ## 💻 Conecte-se comigo
-[![Perfil DIO](https://img.shields.io/badge/-Meu%20Perfil%20na%20DIO-000?style=for-the-badge)](https://web.dio.me/users/cacaalcides7?tab=skill)
+[![Perfil EMPREGA ONE ALURA](https://img.shields.io/badge/-Meu%20Perfil%20na%20DIO-000?style=for-the-badge)](https://cursos.alura.com.br/emprega-one/profile/cacaalcides7)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/carlos-rodrigus1984/)
 [![Instagram](https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram)](https://www.instagram.com/0carlos012/)
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=fff)](https://github.com/RodriguesCarlos01/)
